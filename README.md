@@ -1,2 +1,1 @@
-#Zivot
 Toto je zivot
